@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/richardsweeney0295/cu-website-orr-rstest/_apis/build/status/rswe.pipelines-java?branchName=master)](https://dev.azure.com/richardsweeney0295/cu-website-orr-rstest/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
